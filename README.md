@@ -27,7 +27,7 @@ Aplikacija je namenjena za Android uređaje i dostupna je u APK formatu. Da bi s
 
 ## Autori
 
-- Andjelija Vasiljević 222/20 (@skiiszn)
+- Anđelija Vasiljević 222/20 (@skiiszn)
 - Luka Vlašić 125/20 (@vlaske)
 
 ## Kontakt Informacije
