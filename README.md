@@ -2,7 +2,7 @@
 
 ## Opis
 
-TrainUp je mobilna aplikacija za trening i fitnes koja korisnicima omogućava da pronađu, pregledaju i izvrše različite treninge. Uz TrainUp, možete birati između raznovrsnih treninga, pregledati listu vežbi u svakom treningu, gledati video zapise koji demonstriraju izvođenje određenih vežbi, i pokrenuti trening koji automatski prati vreme za svaku vežbu i pauze između njih
+TrainUp je mobilna aplikacija za trening i fitnes koja korisnicima omogućava da pronađu, pregledaju i urade različite treninge. Uz TrainUp, možete birati između raznovrsnih treninga, pregledati listu vežbi u svakom treningu, gledati video zapise koji demonstriraju izvođenje određenih vežbi, i pokrenuti trening koji automatski prati vreme za svaku vežbu i pauze između njih
 
 ## Jezici i Tehnologije
 
