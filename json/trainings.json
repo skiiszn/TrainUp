@@ -1,0 +1,375 @@
+{
+    "trainingPlans": [
+      {
+        "id": "1",
+        "name": "Full-Body HIIT",
+        "category": ["Full Body"],
+        "tags": "Easy",
+        "exercises": [
+          {
+            "title": "Jumping Jacks",
+            "videoId": "XR0xeuK5zBU",
+            "time": "00:00:30",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Push-Ups",
+            "videoId": "qj9bBW8m60U",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Resistance Band Rows",
+            "videoId": "LSkyinhmA8k",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Resistance Band"]
+          },
+          {
+            "title": "Mountain Climbers",
+            "videoId": "kLh-uczlPLg",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          }
+        ],
+        "restTime": "00:00:15",
+        "totalSets": 3,
+        "requiredEquipmentList": ["Resistance band"],
+        "totalTime": "15 min"
+      },
+      {
+        "id": "2",
+        "name": "Legs and Glutes Toning",
+        "category": ["Legs", "Glutes"],
+        "tags": "Easy",
+        "exercises": [
+          {
+            "title": "Bodyweight Squats",
+            "videoId": "l83R5PblSMA",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Lunges",
+            "videoId": "L8fvypPrzzs",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Glute Bridge",
+            "videoId": "y5f-IZo5AZY",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Calf Raises",
+            "videoId": "cqDMYUaIXvw",
+            "time": "00:00:30",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          }
+        ],
+        "restTime": "00:00:15",
+        "totalSets": 3,
+        "requiredEquipmentList": ["No Equipment"],
+        "totalTime": "12 min"
+      },
+      {
+        "id": "3",
+        "name": "Arms and Abs Strength",
+        "category": ["Arms", "Abs"],
+        "tags": "Medium",
+        "exercises": [
+          {
+            "title": "Bicep Curls",
+            "videoId": "HnHuhf4hEWY",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Dumbbells"]
+          },
+          {
+            "title": "Tricep Dips",
+            "videoId": "HCf97NPYeGY",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Chair"]
+          },
+          {
+            "title": "Plank",
+            "videoId": "pvIjsG5Svck",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Russian Twists",
+            "videoId": "NmzEBlYTR0s",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          }
+        ],
+        "restTime": "00:00:15",
+        "totalSets": 3,
+        "requiredEquipmentList": ["Dumbbells", "Chair"],
+        "totalTime": "12 min"
+      },
+      {
+        "id": "4",
+        "name": "Core and Cardio",
+        "category": ["Abs"],
+        "tags": "Advanced",
+        "exercises": [
+          {
+            "title": "Plank",
+            "videoId": "pvIjsG5Svck", 
+            "time": "00:01:30",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Russian Twists",
+            "videoId": "Tau0hsW8iR0",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Weight or Medicine Ball"]
+          },
+          {
+            "title": "Leg Raises",
+            "videoId": "Wp4BlxcFTkE",
+            "time": "00:00:30",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Bicycle Crunches",
+            "videoId": "wnuLak2onoA",
+            "time": "00:00:30",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Mountain Climbers",
+            "videoId": "kLh-uczlPLg",
+            "time": "00:00:45",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          }
+        ],
+        "restTime": "00:00:20",
+        "totalSets": 4,
+        "requiredEquipmentList": ["Weight or Medicine Ball"],
+        "totalTime": "25 min"
+      },
+      {
+        "id": "5",
+        "name": "Legs and Glutes Strength",
+        "category": ["Legs", "Glutes"],
+        "tags": "Advanced",
+        "exercises": [
+          {
+            "title": "Barbell Squats",
+            "videoId": "rrJIyZGlK8c",
+            "time": "00:01:00",
+            "totalSets": 4,
+            "restTime": "00:01:30",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Barbell"]
+          },
+          {
+            "title": "Deadlifts",
+            "videoId": "yPqv3ejnZvc",
+            "time": "00:01:00",
+            "totalSets": 4,
+            "restTime": "00:01:30",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Barbell"]
+          },
+          {
+            "title": "Walking Lunges",
+            "videoId": "8fZxWTiIJWo",
+            "time": "00:01:30",
+            "totalSets": 4,
+            "restTime": "00:01:30",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Dumbbells"]
+          },
+          {
+            "title": "Leg Press Machine",
+            "videoId": "qCR9bN3G1t4",
+            "time": "00:00:45",
+            "totalSets": 4,
+            "restTime": "00:01:30",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Leg Press Machine"]
+          }
+        ],
+        "restTime": "00:01:30",
+        "totalSets": 3,
+        "requiredEquipmentList": ["Barbell", "Dumbbells", "Leg Press Machine"],
+        "totalTime": "45 min"
+      },
+      {
+        "id": "6",
+        "name": "Arm Strength",
+        "category": ["Arms"],
+        "tags": "Advanced",
+        "exercises": [
+          {
+            "title": "Barbell Bicep Curls",
+            "videoId": "8uTvphnvOBE",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Barbell"]
+          },
+          {
+            "title": "Bench Press",
+            "videoId": "CjHIKDQ4RQo",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Barbell", "Bench"]
+          },
+          {
+            "title": "Dumbbell Hammer Curls",
+            "videoId": "CFBZ4jN1CMI",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Dumbbells"]
+          },
+          {
+            "title": "Tricep Dips",
+            "videoId": "JrAs0OTlYPs",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Parallel bars or dip machine"]
+          },
+          {
+            "title": "Overhead Tricep Extension",
+            "videoId": "fhX-ph3l9K8",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Dumbbells"]
+          }
+        ],
+        "restTime": "00:01:30",
+        "totalSets": 4,
+        "requiredEquipmentList": ["Barbell", "Bench", "Dumbbells"],
+        "totalTime": "45 min"
+      },
+      {
+        "id": "7",
+        "name": "Core Strengthening",
+        "category": ["Abs"],
+        "tags": "Advanced",
+        "exercises": [
+          {
+            "title": "Hanging Leg Raises",
+            "videoId": "RuIdJSVTKO4",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Pull-up bar"]
+          },
+          {
+            "title": "Ab Rollouts",
+            "videoId": "OJIWMlLa38Q",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Ab wheel or barbell with weight plates"]
+          },
+          {
+            "title": "Plank with Knee Tucks",
+            "videoId": "LyRBm9Rc5K8",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Russian Twists",
+            "videoId": "Tau0hsW8iR0",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["Medicine ball or weight plate"]
+          },
+          {
+            "title": "Mountain Climbers",
+            "videoId": "kLh-uczlPLg",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "V-Ups",
+            "videoId": "7UVgs18Y1P4",
+            "time": "00:01:00",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          }
+        ],
+        "restTime": "00:01:00",
+        "totalSets": 3,
+        "requiredEquipmentList": ["Pull-up bar", "Ab wheel"],
+        "totalTime": "45 min"
+      },
+      {
+        "id": "8",
+        "name": "Full-Body HIIT",
+        "category": ["Full Body"],
+        "tags": "Advanced",
+        "exercises": [
+          {
+            "title": "Burpees",
+            "videoId": "OxUEtd2-6bc",
+            "time": "00:00:40",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Jump Squats",
+            "videoId": "BRfxI2Es2lE",
+            "time": "00:00:40",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Mountain Climbers",
+            "videoId": "kLh-uczlPLg",
+            "time": "00:00:40",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Bicycle Crunches",
+            "videoId": "wnuLak2onoA",
+            "time": "00:00:40",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Jump Lunges",
+            "videoId": "iJMsF7fzrOM",
+            "time": "00:00:40",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          },
+          {
+            "title": "Plank Jacks",
+            "videoId": "3VpkyIcnT64",
+            "time": "00:00:40",
+            "thumbnail": "assets/images/playIcon3.png",
+            "requiredEquipment": ["No Equipment"]
+          }
+        ],
+        "restTime": "00:01:00",
+        "totalSets": 4,
+        "requiredEquipmentList": ["No Equipment"],
+        "totalTime": "30 min"
+      }
+    ]
+  }
+  
